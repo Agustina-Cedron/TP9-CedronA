@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0497AB72-789D-4D4D-A462-E79CC85FAB6A}|Ejercicio5\\Ejercicio5.csproj|C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0497AB72-789D-4D4D-A462-E79CC85FAB6A}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0497AB72-789D-4D4D-A462-E79CC85FAB6A}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\sabri\\onedrive\\escritorio\\cedron-tp9\\tp9-cedronagustina\\ejercicio5\\ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0497AB72-789D-4D4D-A462-E79CC85FAB6A}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\Ejercicio5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Form1.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\Ejercicio5\\Form1.cs",
+              "RelativeToolTip": "Ejercicio5\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:15:50.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\Ejercicio5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Form1.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Escritorio\\cedron-tp9\\TP9-CedronAgustina\\Ejercicio5\\Ejercicio5\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio5\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:09:51.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

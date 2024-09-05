@@ -1,0 +1,20 @@
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P9\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\sabri\OneDrive\Escritorio\REPOSITORIOS\TP9-CedronAgustina\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
